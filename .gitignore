@@ -1,0 +1,31 @@
+# Java / Maven
+backend/target/
+backend/*.jar
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+mysql-data/
+
+# Node (if any)
+node_modules/
+dist/
+.env
+.env.local
